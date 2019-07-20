@@ -1,4 +1,15 @@
 # Bloom Filters and its applications
+## Project Instalation
+1. clone the project
+2. There are two application one is for password and another one for intersection
+3. for password app
+** Go to src/app/bloom_filter/password
+** To run: python newpass.py
+** please enter values with double quote  
+4. for Intersection app
+** Go to src/app/bloom_filter/intersection
+** To run: python intersection.py
+** please enter values with double quote  
 ## Problem Statement
 What is the fastest and space efficient way
 to search for a word that is present or not?
